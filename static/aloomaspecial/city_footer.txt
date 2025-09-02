@@ -1,0 +1,48 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What if I have special rules from my Homeowners Association (HOA) about dumpsters?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We deal with HOAs all the time. Most just have rules about placement (not on the street) or duration (how long it can be there). Just let us know your HOA's rules when you book, and we will work with you to ensure everything is in compliance.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I mix yard waste like branches and leaves with household junk?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, you absolutely can. For a general cleanout, feel free to mix it all in together, old furniture, yard debris, garage junk, etc. The only time we separate is for very heavy, clean materials like concrete or dirt, which can sometimes be recycled for a lower cost.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What's the best way to protect my driveway from the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The best and cheapest insurance is to lay down a few pieces of plywood or 2x8 boards where the dumpster's steel wheels will rest. Our drivers are incredibly careful, but this simple step provides an extra layer of protection and peace of mind.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How does your pricing work? Is it really all-inclusive?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our dumpster rental prices are quoted as a flat rate that includes delivery, pickup, a specified rental period (usually 7-10 days), and a generous tonnage allowance. You will know the full cost upfront. The only extra charges would be for going way over the weight limit or for prohibited items.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How high can I load the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You can load it up to be level with the top edge of the roll off dumpster container. For safety, we have to be able to cover the load with a tarp for transport, so nothing can be sticking up over the sides.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
